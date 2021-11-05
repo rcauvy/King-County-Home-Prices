@@ -59,7 +59,7 @@ Given more time and information about what the homeowner's renovation budget wou
 
 
 ### For further information
-Please review the narrative of the analysis in [the jupyter notebook](King County Home Prices.ipynb) or review the [presentation](King County Home Prices.pdf)
+Please review the narrative of the analysis in [the jupyter notebook](./King_County_Home_Prices.ipynb) or review the [presentation](./King_County_Home_Prices.pdf)
 
 For any additional questions, please contact **rcauvy@gmail.com)
 
@@ -70,8 +70,8 @@ For any additional questions, please contact **rcauvy@gmail.com)
 ```
 
 ├── README.md               <- The top-level README for reviewers of this project.
-├── index.ipynb             <- narrative documentation of analysis in jupyter notebook
-├── presentation.pdf        <- pdf version of project presentation
+├── King_County_Home_Prices.ipynb             <- narrative documentation of analysis in jupyter notebook
+├── King_County_Home_Prices.pdf        <- pdf version of project presentation
 └── images
     └── images               <- both sourced externally and generated from code
 └── data
