@@ -33,12 +33,12 @@ Since our clients are most concerned with increasing their home's resale value P
 > Of all the features of a home that can be controlled by home owners. Increasing Grade can have the largest impact. This visualization demonstrates how moving up grades relate to increased home values.
 
 #### Home Sale Price vs Basement vs Sqft
-<img src="./images/sqft_vs_price_basement" width=90%>
+<img src="./images/sqft_vs_price_basement.png" width=90%>
 
 > This visualization displays how homes with a basement have tend to have a higher value. Square footage and price are highly correlated so this graphic also shows that homes with a similar square footage can be worth more if they also have a basement.
 
 #### Average Home Prices vs Number of Bathrooms
-<img src="./images/avg_price_bathroom" width=90%>
+<img src="./images/avg_price_bathroom.png" width=90%>
 
 > Adding a full or half bath can significantly increase the value of a home.
 
@@ -59,14 +59,13 @@ Given more time and information about what the homeowner's renovation budget wou
 
 
 ### For further information
-Please review the narrative of our analysis in [our jupyter notebook](./index.ipynb) or review our [presentation](./SampleProjectSlides.pdf)
+Please review the narrative of our analysis in [our jupyter notebook](./King County Home Prices.ipynb) or review our [presentation](./King County Home Prices.pdf)
 
 For any additional questions, please contact **rcauvy@gmail.com)
 
 
 ##### Repository Structure:
 
-Here is where you would describe the structure of your repoistory and its contents, for exampe:
 
 ```
 
