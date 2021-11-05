@@ -59,7 +59,7 @@ Given more time and information about what the homeowner's renovation budget wou
 
 
 ### For further information
-Please review the narrative of our analysis in [our jupyter notebook](./King County Home Prices.ipynb) or review our [presentation](./King County Home Prices.pdf)
+Please review the narrative of the analysis in [the jupyter notebook](King County Home Prices.ipynb) or review the [presentation](King County Home Prices.pdf)
 
 For any additional questions, please contact **rcauvy@gmail.com)
 
